@@ -1,6 +1,6 @@
 # TEST-FAST-API
 
-엔라이즈 테스트 회원 관리 API 서버 문서
+fast-api 예제
 
 ## 준비
 파이썬 언어와 MySQL 서버 필요<br>
