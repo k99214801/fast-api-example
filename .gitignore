@@ -130,4 +130,4 @@ dmypy.json
 
 .idea/
 
-.sql
+create_tables.sql
